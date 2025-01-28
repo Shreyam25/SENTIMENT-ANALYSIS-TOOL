@@ -1,0 +1,8 @@
+pandas
+nltk
+contractions
+emoji
+wordcloud
+matplotlib
+scikit-learn
+joblib
